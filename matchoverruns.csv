@@ -1,0 +1,9 @@
+MATCH,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+Match1 INNINGS 1 TEAM Sunrisers Hyderabad,7,16,6,4,9,17,5,11,9,4,10,8,18,8,19,4,7,17,12,16
+Match1 INNINGS 2 TEAM Royal Challengers Bangalore,11,1,16,15,5,6,7,13,11,13,13,7,8,4,9,12,3,2,9,7
+Match2 INNINGS 1 TEAM Mumbai Indians,11,8,9,13,7,13,2,3,10,6,10,3,11,5,9,7,10,8,9,30
+Match2 INNINGS 2 TEAM Rising Pune Supergiant,8,15,12,4,4,16,4,10,9,11,4,8,9,15,10,9,10,7,7,15
+Match3 INNINGS 1 TEAM Gujarat Lions,8,8,6,7,11,12,12,8,4,15,4,7,7,7,9,5,11,12,16,14
+Match3 INNINGS 2 TEAM Kolkata Knight Riders,7,13,17,9,7,20,23,7,6,7,15,16,6,9,22,0,0,0,0,0
+Match4 INNINGS 1 TEAM Rising Pune Supergiant,1,2,4,13,12,3,7,6,5,10,8,4,9,14,10,15,5,5,14,16
+Match4 INNINGS 2 TEAM Kings XI Punjab,6,13,8,11,10,8,3,3,4,7,12,3,15,13,12,15,2,12,7,0
